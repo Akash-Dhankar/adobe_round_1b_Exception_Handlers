@@ -46,4 +46,7 @@ WSL2 integration enabled for Ubuntu (if using Windows)
 3) docker run --rm -it -p 8000:8000 adobe-app
 
 
+                                                                                              OUTPUT JSON
+<img width="1906" height="1191" alt="image" src="https://github.com/user-attachments/assets/19b80824-b374-4e15-a456-aa23287f5eec" />
+
 
