@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "documents": [
+      "doc1.pdf",
+      "doc2.pdf"
+    ],
+    "persona": "I am a financial investment analyst focused on identifying market trends, evaluating R&D performance, and forecasting company revenue growth based on annual financial reports.",
+    "job_to_be_done": "Analyze the revenue trends, R&D investments, and market positioning strategies of the companies over the last 3 years.",
+    "timestamp": "2025-07-27T23:41:52.486916"
+  },
+  "extracted_sections": [
+    {
+      "document": "input\\doc1.pdf",
+      "page": 34,
+      "section_title": "\u2022 shortfalls in our results or shortfalls, changes to estima...",
+      "importance_rank": 1
+    },
+    {
+      "document": "input\\doc2.pdf",
+      "page": 8,
+      "section_title": "Because of the following factors, as well as other factors a...",
+      "importance_rank": 2
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 3,
+      "section_title": "In addition to historical information, this Annual Report on...",
+      "importance_rank": 3
+    },
+    {
+      "document": "input\\doc2.pdf",
+      "page": 4,
+      "section_title": "This Annual Report on Form 10-K (\u201cForm 10-K\u201d) contains forwa...",
+      "importance_rank": 4
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 4,
+      "section_title": "This overview provides an explanation of our markets and a d...",
+      "importance_rank": 5
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 34,
+      "section_title": "\u2022 changes in investor and analyst valuation models for our s...",
+      "importance_rank": 6
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 33,
+      "section_title": "We test goodwill for impairment at least annually. We review...",
+      "importance_rank": 7
+    },
+    {
+      "document": "input\\doc2.pdf",
+      "page": 12,
+      "section_title": "The Company believes the availability of third-party softwar...",
+      "importance_rank": 8
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 63,
+      "section_title": "If the qualitative assessment indicates that the quantitativ...",
+      "importance_rank": 9
+    },
+    {
+      "document": "input\\doc2.pdf",
+      "page": 15,
+      "section_title": "Investment in new business strategies and acquisitions could...",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "input\\doc1.pdf",
+      "page": 34,
+      "refined_text": "shortfalls analysts estimates financial earnings",
+      "importance_rank": 1
+    },
+    {
+      "document": "input\\doc2.pdf",
+      "page": 8,
+      "refined_text": "risk future financial performance trends",
+      "importance_rank": 2
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 3,
+      "refined_text": "future uncertainties securities strategic statements",
+      "importance_rank": 3
+    },
+    {
+      "document": "input\\doc2.pdf",
+      "page": 4,
+      "refined_text": "future statements forward securities litigation",
+      "importance_rank": 4
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 4,
+      "refined_text": "fiscal strategic 2025 markets financial",
+      "importance_rank": 5
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 34,
+      "refined_text": "valuation investor stock analyst changes",
+      "importance_rank": 6
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 33,
+      "refined_text": "goodwill earnings assets impairment intangible",
+      "importance_rank": 7
+    },
+    {
+      "document": "input\\doc2.pdf",
+      "page": 12,
+      "refined_text": "android applications competitors revenue software",
+      "importance_rank": 8
+    },
+    {
+      "document": "input\\doc1.pdf",
+      "page": 63,
+      "refined_text": "goodwill revenue income impairment qualitative",
+      "importance_rank": 9
+    },
+    {
+      "document": "input\\doc2.pdf",
+      "page": 15,
+      "refined_text": "acquisitions risks investment business company",
+      "importance_rank": 10
+    }
+  ]
+}
