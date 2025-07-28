@@ -1,6 +1,5 @@
 pymupdf
-sentence-transformers
 scikit-learn
 keybert
-nltk
-spacy
+sentence-transformers==2.3.0
+numpy<2.0.0

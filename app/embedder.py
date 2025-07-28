@@ -21,4 +21,7 @@ def rank_sections(persona, job, sections):
 
     ranked = sorted(sections, key=lambda x: x["score"], reverse=True)
     return ranked[:10]
-model = SentenceTransformer('distiluse-base-multilingual-cased-v2')
+# model = SentenceTransformer('distiluse-base-multilingual-cased-v2')
+model = SentenceTransformer('/app/pretrained_models/distiluse-base-multilingual-cased-v2')
+
+
